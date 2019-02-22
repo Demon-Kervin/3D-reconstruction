@@ -1,2 +1,1 @@
-# 3D-reconstruction
-This is toolbox to reconstuct the 3D models based on 2D CT inmages. The reference papare is published in Computers and Geosciences
+This is the toolbox to reconstuct the 3D models based on 2D CT inmages. The reference papare "An integrated method for 3D reconstruction model of porous geomaterials through 2D CT images" is published in Computers and Geosciences. If you have intresting in this project and use this toolbox, you need to cite the paper "Zhao, Z., & Zhou, X. P. (2019). An integrated method for 3D reconstruction model of porous geomaterials through 2D CT images. Computers & Geosciences, 123, 83-94.". Moreover, if you have any suggestions and comments, please contact me.
